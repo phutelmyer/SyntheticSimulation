@@ -1,7 +1,9 @@
 # Synthetic Simulation
 
 Paul Hutelmyer
+
 ph2225@nyu.edu
+
 NYU - CS GY 6813 Information Security & Privacy
 
 
