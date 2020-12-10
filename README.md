@@ -15,7 +15,9 @@ signatures and their components will increase the confidence in the detection sy
 Script
 -----------
 This script generates a dataframe and line chart of detection signature confidence intervals between a system without the
-implementation of a synthetic event solution and one with one. The following are definitions:
+implementation of a synthetic event solution and one with one.
+
+To use this script, either run `simulate.py` directly using the defaults, or modify the global variables and user inputs in the `main` function.
 
 Glossary
 -----------
