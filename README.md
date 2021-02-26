@@ -1,12 +1,5 @@
 # Synthetic Simulation
 
-Paul Hutelmyer
-
-ph2225@nyu.edu
-
-NYU - CS GY 6813 Information Security & Privacy
-
-
 Hypothesis
 -----------
 The implementation of a continuous synthetic event solution for the purpose of testing and validating detection
